@@ -1,0 +1,27 @@
+Bahasa Pemrograman
+Bahasa pemrograman adalah aturan atau set instruksi yang digunakan oleh programmer untuk menulis kode yang akan dieksekusi oleh komputer. Ini adalah cara bagi manusia untuk berkomunikasi dengan komputer. Setiap bahasa pemrograman memiliki sintaksis dan aturan tata bahasa sendiri yang harus diikuti agar komputer dapat memahami dan menjalankan instruksi yang diberikan. Bahasa pemrograman digunakan dalam berbagai bidang, mulai dari pengembangan perangkat lunak, pembuatan situs web, analisis data, hingga pengembangan permainan. Beberapa contoh bahasa pemrograman populer termasuk Python, Java, C++, JavaScript, dan banyak lagi.
+
+Bahasa mesin adalah bahasa yang dipahami oleh komputer secara langsung. Komputer hanya dapat menjalankan instruksi dalam bahasa mesin. Bahasa mesin terdiri dari serangkaian instruksi biner, yang terdiri dari rangkaian nol dan satu, yang disebut kode mesin. Setiap instruksi dalam bahasa mesin menginstruksikan komputer untuk melakukan operasi tertentu, seperti menambahkan dua angka, memuat data dari memori, atau menyimpan hasil ke memori.
+
+Contoh kode mesin mungkin terlihat seperti ini: 
+
+01010110 01101001 01110010 01110101 01110011 00100000 01000001 01100100 01100101 01101100 01100101
+
+Namun, karena bahasa mesin sangat sulit untuk dipahami dan ditulis oleh manusia, maka diciptakanlah bahasa pemrograman yang lebih mudah untuk dipahami dan ditulis. Kemudian, program-program yang ditulis dalam bahasa pemrograman akan diterjemahkan menjadi kode mesin oleh kompiler atau interpreter sebelum dieksekusi oleh komputer.
+
+CPU memahami Bahasa Mesin
+Bahasa yang mendekati bahasa mesin yaitu Bahasa Assembly atau bahasa tingkat rendah (Low Level Language)
+Bahasa Assembly adalah jenis bahasa pemrograman tingkat rendah yang menggunakan instruksi-instruksi yang langsung sesuai dengan instruksi-instruksi yang dipahami oleh arsitektur komputer yang bersangkutan. Setiap instruksi dalam bahasa Assembly langsung memetakan ke instruksi-instruksi dalam bahasa mesin, sehingga memungkinkan programmer untuk memiliki kontrol yang lebih langsung terhadap perilaku komputer.
+
+Instruksi-instruksi dalam bahasa Assembly biasanya terdiri dari kata-kata kunci yang menggambarkan operasi-operasi dasar seperti penjumlahan, pengurangan, pemindahan data, dan kontrol alur program.
+
+Contoh sederhana dari bahasa Assembly untuk arsitektur x86 mungkin terlihat seperti ini:
+
+MOV AX, 5      ; Memuat nilai 5 ke dalam register AX
+ADD AX, 3      ; Menambahkan nilai 3 ke dalam register AX
+
+Meskipun bahasa Assembly memberikan kontrol yang lebih langsung terhadap perangkat keras komputer, namun penggunaannya cenderung lebih rumit dan membutuhkan pemahaman yang lebih mendalam tentang arsitektur komputer yang bersangkutan dibandingkan dengan bahasa pemrograman tingkat lebih tinggi seperti Python atau Java.
+
+Source Code
+1. Menulis Source Code
+Bahasa pemrograman itu ditulis dengan menggunakan sebuah Text sederhana atau yang disebut dengan PLAIN TEXT. untuk menuliskannya bisa menggunakan text editor sederhana, seperti notepad. ada juga Code Editor seperti sublime, vscode, dll.
